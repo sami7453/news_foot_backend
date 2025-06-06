@@ -3,7 +3,7 @@
 **Base URL**
 
 ```
-https://newsfootbackend-production.up.railway.app/api
+https://newsfootbackend-production.up.railway.app
 ```
 
 ---
